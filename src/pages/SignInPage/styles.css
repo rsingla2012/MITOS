@@ -1,0 +1,14 @@
+.image {
+    height: 1119px;
+    width: 1611px;
+  }
+  
+  .image .clouds {
+    height: 832px;
+    left: 0;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    width: 1280px;
+  }
+  
